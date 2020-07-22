@@ -12,4 +12,6 @@ Modify scripts as needed to demonstrate git concepts
 
 ## Deployments
 
+local repo: /D/Projects/starter-web created on 2020-07-20
+
 ## How To Contribute
