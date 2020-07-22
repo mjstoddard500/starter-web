@@ -1,11 +1,13 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is a forked image of http://bitly.com/git-start-web for showing how Git and GitHub work
 
 ## Intro
 
+Crash-N-Burn repo
+
 ## Purpose
 
-Sample website with plenty of files for demos
+Modify scripts as needed to demonstrate git concepts
 
 ## How To Contribute
